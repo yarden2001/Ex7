@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Ex7</string>
+    <string name="Intro">Hello, this app will demonstartes the transfer to a second activity and sending result back to this one. Press the button to start</string>
+    <string name="RegButton">Register</string>
+    <string name="FirstName">First Name:</string>
+    <string name="LastName">Last Name:</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="SendBackBuuton">Send Back</string>
 </resources>
