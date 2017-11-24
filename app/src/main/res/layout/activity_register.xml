@@ -77,7 +77,9 @@
         android:layout_below="@+id/radioGroup"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="59dp"
-        android:background="@drawable/border2"/>
+        android:background="@drawable/border2"
+        android:onClick="onButtonClick"
+        />
 
 
 </RelativeLayout>
